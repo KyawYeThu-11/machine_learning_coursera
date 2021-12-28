@@ -1,41 +1,41 @@
 # Machine Learning by Stanford University
 
 ## Description
-This repository contains 8 branches (excluding this _master_ branch), each of which represents the programming assignment of each week of the course, [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning) from [Coursera](https://www.coursera.org/), taught by [Prof. Andrew Ng](https://www.coursera.org/instructor/andrewng).
+This repository contains 8 code directories (excluding this _master_ branch), each of which represents the programming assignment of each week of the course, [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning) from [Coursera](https://www.coursera.org/), taught by [Prof. Andrew Ng](https://www.coursera.org/instructor/andrewng).
 
 ## Contents
-- [ex1](https://github.com/KyawYeThu-11/machine_learning_coursera/tree/ex1)
+- ex1
   - Simple Octave/MATLAB function
   - Linear regression with one variable
   - Linear regression with multiple variables
 
-- [ex2](https://github.com/KyawYeThu-11/machine_learning_coursera/tree/ex2)
+- ex2
   - Logistic Regression
   - Regularized logistic regression
 
-- [ex3](https://github.com/KyawYeThu-11/machine_learning_coursera/tree/ex3)
+- ex3
   - Multi-class Classification
   - Neural Networks Representation
 
-- [ex4](https://github.com/KyawYeThu-11/machine_learning_coursera/tree/ex4)
+- ex4
   - Neural Networks Implementation
   - Backpropagation
   - Visualizing the hidden layer
 
-- [ex5](https://github.com/KyawYeThu-11/machine_learning_coursera/tree/ex5)
+- ex5
   - Regularized Linear Regression
   - Bias-variance
   - Polynomial regression
 
-- [ex6](https://github.com/KyawYeThu-11/machine_learning_coursera/tree/ex6)
+- ex6
   - Support Vector Machines
   - Spam Classification
 
-- [ex7](https://github.com/KyawYeThu-11/machine_learning_coursera/tree/ex7)
+- ex7
   - K-means Clustering
   - Principal Component Analysis (PCA)
 
-- [ex8](https://github.com/KyawYeThu-11/machine_learning_coursera/tree/ex8)
+- ex8
   - Anomaly detection
   - Recommender Systems
 
