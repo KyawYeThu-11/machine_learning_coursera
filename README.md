@@ -1,7 +1,7 @@
 # Machine Learning by Stanford University
 
 ## Description
-This repository contains 8 code directories (excluding this _master_ branch), each of which represents the programming assignment of each week of the course, [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning) from [Coursera](https://www.coursera.org/), taught by [Prof. Andrew Ng](https://www.coursera.org/instructor/andrewng).
+This repository contains 8 code directories, each of which represents the programming assignment of each week of the course, [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning) from [Coursera](https://www.coursera.org/), taught by [Prof. Andrew Ng](https://www.coursera.org/instructor/andrewng).
 
 ## Contents
 - ex1
