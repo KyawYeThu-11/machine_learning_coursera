@@ -44,3 +44,6 @@ The exercises in this course use Octave1 or MATLAB, a high-level programming lan
 Octave functions can be found at the [Octave documentation pages](https://octave.org/doc/v6.4.0/). MATLAB documentation can be found at the [MATLAB documentation pages](https://www.mathworks.com/help/matlab/).
 
 > This repository is just to showcase the projects I've implemented along the course. Please be aware that it's pointless to mindlessly copy-paste code especially during the learning process and be mindful of [**Coursera Honor Code**](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US).
+
+## Certificate
+![Machine Learning Coursra Certificate](https://github.com/KyawYeThu-11/machine_learning_coursera/blob/master/certificate/machine_learning_coursera.jpg)
